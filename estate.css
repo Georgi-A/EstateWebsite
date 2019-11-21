@@ -98,7 +98,7 @@ header {
 }
 
 .height-max {
-    background: url(../pics/villa-1209148_1920.jpg);
+    background: url(../dist/images/villa-1209148_1920.jpg);
     min-height: calc(100vh - 101px);
     background-position: center;
     background-size: cover;
@@ -205,7 +205,7 @@ header {
 }
 .question {
     height: 25rem;
-    background: url(../pics/blue-sky-clouds-country-1005474.jpg);
+    background: url(../dist/images/blue-sky-clouds-country-1005474.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
