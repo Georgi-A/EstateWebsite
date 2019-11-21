@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d one_page"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/Georgi-A/EstateWebsite.git",
+  "homepage": "https://georgi-a.github.io/EstateWebsite/",
   "dependencies": {
     "gh-pages": "^2.1.1"
   }
